@@ -8,7 +8,7 @@ Also, very easy to use with english-like syntax!
 
 # Setup!
 
-Go to your OS and install the .sh file or the .exe file.
+Go to your OS in releases and install the .sh file or the .exe file.
 
 If you have installed the .sh file. Run `source path/to/.sh/file`
 
