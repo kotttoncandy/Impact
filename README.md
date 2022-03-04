@@ -20,9 +20,9 @@ In the file, type in `say "Hello World!" ;`
 
 Everything here is essential. So please don't mix around the words or characters.
 
-Last, if your on mac, type in, `impact hello-world.impact`
+Lastly, if your on mac, type in, `impact hello-world.impact`
 
-If your on windows, type in `path/to/exe/ hello-world.impact`
+If your on windows, type in, in terminal, `path/to/exe/ hello-world.impact`
 
 See the wiki on how to create more complex applications!
 
