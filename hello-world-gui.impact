@@ -1,0 +1,15 @@
+// GUI
+
+label e Hello World ;
+
+e.height 1 ;
+
+e.x 250
+
+e.y 250
+
+e.color red
+
+gui window
+
+window.run 500x500 ;
