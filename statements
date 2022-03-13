@@ -1,0 +1,7 @@
+var a = 1 ;
+
+if a == 1 {
+  say "hello world!" ;
+} else {
+  say "no hello world, sadly" ;
+}
