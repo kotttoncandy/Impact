@@ -1,6 +1,6 @@
 ![alt text](https://raw.githubusercontent.com/kotttoncandy/Impact/main/_Impact_-removebg-preview.png)
 
-This programming language makes life easier when to creating GUI or CLI's.
+This programming language makes life easier when to creating simple applications!
 
 It is fast and easy to set up.
 
